@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="touch_target">48dp</dimen>
+    <dimen name="loading_txt_size">40sp</dimen>
+    <dimen name="text_size_no_data">24sp</dimen>
+    <dimen name="material_8dp">8dp</dimen>
+</resources>

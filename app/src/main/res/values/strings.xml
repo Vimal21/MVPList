@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVPList</string>
+    <string name="loading">Loading ...</string>
+    <string name="err_network">Network connection problem</string>
+    <string name="no_data">Sorry,vNo Data Found</string>
+    <string name="trans_tool_bar_title">transition</string>
+</resources>
